@@ -6,4 +6,8 @@ F11673
 
 Ingenieria Sistemas Computacionales
 
-REQUERIMIENTOS
+REQUERIMIENTOS:
+
+jdk21
+
+intelliji
