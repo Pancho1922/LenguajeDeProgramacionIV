@@ -10,4 +10,4 @@ REQUERIMIENTOS:
 
 jdk21
 
-intelliji
+intelliJ IDEA
